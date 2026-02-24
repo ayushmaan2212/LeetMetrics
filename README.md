@@ -39,7 +39,7 @@ Enter a LeetCode username to view solved problem counts for Easy, Medium, and Ha
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/LeetMetrics.git
+git clone https://github.com/ayushmaan2212/LeetMetrics.git
 ```
 
 2. Open the project folder
